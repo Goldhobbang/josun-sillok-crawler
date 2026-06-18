@@ -27,6 +27,7 @@ from bs4 import BeautifulSoup
 
 
 # Continue web crawling from the 680th article in the existing crawl result.
+# The 680th article's URL was extracted from sillok_translated.json
 START_URL = "https://sillok.history.go.kr/id/kaa_10304029_001"
 OUTPUT_FILE = "sillok_translated.json"
 SAVE_EVERY = 10
