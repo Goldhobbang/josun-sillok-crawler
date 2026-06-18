@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+sample/
+sample_*.txt
+
+*.json
+*.jsonl
+
+.env
+.venv/
+venv/
